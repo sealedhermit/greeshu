@@ -1,0 +1,36 @@
+[submodule "Documents/blogdesign/themes/mainroad"]
+	path = Documents/blogdesign/themes/mainroad
+	url = https://github.com/vimux/mainroad
+[submodule "hugoblog/themes/mainrod"]
+	path = hugoblog/themes/mainrod
+	url = https://github.com/vimux/mainroad
+[submodule "Documents/blogsite/themes/Mainroad"]
+	path = Documents/blogsite/themes/Mainroad
+	url = https://github.com/Vimux/Mainroad.git
+[submodule "Documents/magsite/themes/mainroad"]
+	path = Documents/magsite/themes/mainroad
+	url = https://github.com/vimux/mainroad
+[submodule "Documents/devsite/themes/mainroad"]
+	path = Documents/devsite/themes/mainroad
+	url = https://github.com/vimux/mainroad
+[submodule "Desktop/myblog/themes/PaperMod"]
+	path = Desktop/myblog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Desktop/myblog/themes/hugo-coder"]
+	path = Desktop/myblog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Documents/blog/themes/themes/hugo-coder"]
+	path = Documents/blog/themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Documents/blog/themes/hugo-code"]
+	path = Documents/blog/themes/hugo-code
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Documents/blog/themes/hugo-coder"]
+	path = Documents/blog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Documents/hugo/tale/themes/tale"]
+	path = Documents/hugo/tale/themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
+[submodule "Documents/radio/radio/themes/hugo-coder"]
+	path = Documents/radio/radio/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

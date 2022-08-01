@@ -1,0 +1,25 @@
+I"^<p>Given an integer <code class="language-plaintext highlighter-rouge">n</code>, return first <code class="language-plaintext highlighter-rouge">n</code> integers sorted in lexicographic order.</p>
+
+<p><a href="https://binarysearch.com/problems/N-Lexicographic-Integers" target="\_blank">https://binarysearch.com/problems/N-Lexicographic-Integers</a></p>
+
+<h2 id="examples">Examples</h2>
+
+<h3 id="example-1">Example 1</h3>
+
+<p><strong>Input</strong></p>
+
+<ul>
+  <li>n = <code class="language-plaintext highlighter-rouge">12</code></li>
+</ul>
+
+<p><strong>Output</strong></p>
+
+<ul>
+  <li>answer = <code class="language-plaintext highlighter-rouge">[1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9]</code></li>
+</ul>
+
+<h2 id="solution">Solution</h2>
+
+<script src="https://gist.github.com/yaeba/16da7be5123724fcf6eccc25581cef5a.js?file=N-Lexicographic-Integers.py"></script>
+
+:ET
