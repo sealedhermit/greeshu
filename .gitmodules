@@ -34,3 +34,6 @@
 [submodule "Documents/radio/radio/themes/hugo-coder"]
 	path = Documents/radio/radio/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "doc/themes/hugo-coder"]
+	path = doc/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

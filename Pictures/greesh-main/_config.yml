@@ -1,0 +1,43 @@
+# Site settings
+title:          To my favourite person, Greesh!
+description:    "A silly, quirky maybe an eccentric take on how much I value you"
+baseurl:        ""
+url:            ""
+
+staticman_url: https://${bridge_app_name}.herokuapp.com/v2/entry/sealedhermit/testjekyll/master/comments
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         mannunni
+  url:          
+  email:        
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+#disqus:         jekyll-tale
